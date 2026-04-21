@@ -30,7 +30,6 @@ Ollama, by default, only allows connections from the machine it is installed on 
     * **Variable value:** `0.0.0.0`
 4.  **Restart Ollama:** Open the Ollama application from your Start menu.
 5.  **Firewall:** Ensure port `11434` is allowed for "Private" networks in your Windows Firewall settings.
-6.  ## 🍎 Server Setup (macOS / Linux)
 
 ## 🍎 Server Setup (macOS / Linux)
 
