@@ -39,8 +39,10 @@ Ollama, by default, only allows connections from the machine it is installed on 
 ```bash
 export OLLAMA_HOST=0.0.0.0
 ollama serve
+```
 
-## ⚖️ License
+ ## ⚖️ License
+
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
