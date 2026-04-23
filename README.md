@@ -4,7 +4,7 @@ A native, high-performance Android client for interacting with self-hosted **Oll
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Real-time Streaming:** Responses appear word-by-word as the model generates them.
 * **Multimodal (Vision):** Upload images to analyze them using vision-capable models (e.g., `llava`).
@@ -16,7 +16,7 @@ A native, high-performance Android client for interacting with self-hosted **Oll
 
 ---
 
-## 🖥️ Server Setup (Windows)
+## Server Setup (Windows)
 
 Ollama, by default, only allows connections from the machine it is installed on (`localhost`). To allow your Android phone to connect over your Wi-Fi, you **must** follow these steps:
 
@@ -31,7 +31,7 @@ Ollama, by default, only allows connections from the machine it is installed on 
 4.  **Restart Ollama:** Open the Ollama application from your Start menu.
 5.  **Firewall:** Ensure port `11434` is allowed for "Private" networks in your Windows Firewall settings.
 
-## 🍎 Server Setup (macOS / Linux)
+##  Server Setup (macOS / Linux)
 
 1. Run the following command in your terminal before launching the Ollama server:
 
